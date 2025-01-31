@@ -43,6 +43,7 @@ logger = logging.getLogger(f"func.{__name__}")
 logger.info(
     "---------------------------------------START--------------------------------------------"
 )
+logger.info( "test CI and pull request")
 # import importlib
 # import inflection
 
