@@ -25,7 +25,7 @@ from cognite.client.utils._time import time_string_to_ms, ms_to_datetime
 
 
 # Static Variables
-functionName = "This a test"
+functionName = "This is a test"
 
 import os
 import sys
