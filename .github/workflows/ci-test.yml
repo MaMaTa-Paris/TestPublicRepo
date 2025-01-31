@@ -2,6 +2,8 @@ name: CI Pipeline
 
 on:
   push:
+    paths:
+      - 'handler.py'
     branches:
       - main
 
