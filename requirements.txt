@@ -1,0 +1,7 @@
+pandas
+numpy
+pytz
+scipy
+cognite-logger
+python-dateutil
+pydantic
